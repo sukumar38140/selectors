@@ -1,0 +1,24 @@
+.static{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    
+    }
+    .relative{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin-left: 100px;
+    }
+    .fixed{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-left: 200px;
+    }
+
+    .sec{
+        border: 10px solid black;
+        width: 300px;
+    }
+    
